@@ -1,6 +1,6 @@
 # Hi, I'm Chris Chan 👋
 
-**Product Manager · Founder of [Your Light](https://apps.apple.com/app/your-light-small-steps/id6811325600)** · Kuala Lumpur, Malaysia
+**Product Manager, [Your Light](https://apps.apple.com/app/your-light-small-steps/id6811325600)** · Kuala Lumpur, Malaysia
 
 - 📱 **Your Light: Small Steps**, a wellbeing app I founded and shipped, **live on the App Store**: small daily steps, courses with learning games, shared "lights" with friends, subscriptions, English / Malay / Chinese.
 - 🧭 Product work across fintech (MCash), UI/UX (Hiseven) and B2B software (CADVision).
