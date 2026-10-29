@@ -13,13 +13,11 @@
 
 ## Find me
 
-| | |
-|---|---|
-| 🔗 **Links, résumé & portfolio** | [chanyenqi018-ui.github.io](https://chanyenqi018-ui.github.io/) |
-| ✨ **Your Light website** | [chanyenqi018-ui.github.io/your-light](https://chanyenqi018-ui.github.io/your-light/) |
-| 📲 **Your Light on the App Store** | [Download](https://apps.apple.com/app/your-light-small-steps/id6811325600) |
-| 🎨 **Case studies** | [Behance](https://www.behance.net/jordanchanyenqi) |
-| 💼 **LinkedIn** | [jordan-chan-yen-qi](https://www.linkedin.com/in/jordan-chan-yen-qi/) |
-| 📫 **Email** | [chanyenqi018@gmail.com](mailto:chanyenqi018@gmail.com) |
+- 🔗 **Links, résumé & portfolio:** [chanyenqi018-ui.github.io](https://chanyenqi018-ui.github.io/)
+- ✨ **Your Light website:** [chanyenqi018-ui.github.io/your-light](https://chanyenqi018-ui.github.io/your-light/)
+- 📲 **Your Light on the App Store:** [Download](https://apps.apple.com/app/your-light-small-steps/id6811325600)
+- 🎨 **Case studies:** [Behance](https://www.behance.net/jordanchanyenqi)
+- 💼 **LinkedIn:** [jordan-chan-yen-qi](https://www.linkedin.com/in/jordan-chan-yen-qi/)
+- 📫 **Email:** [chanyenqi018@gmail.com](mailto:chanyenqi018@gmail.com)
 
 *Open to Product Manager / Product Owner roles: KL, hybrid or remote.*
